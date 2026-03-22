@@ -200,7 +200,10 @@ This is a single-page app that behaves like multiple pages using hash navigation
   border-radius: 12px;
   margin-top: 20px;   /* 🔥 IMAGE GAP */
 }
-
+/* ABOUT SECTION TOP GAP */
+.container {
+  margin-top: 50px;
+}
 /* Mobile Responsive Layout */
 @media(max-width:900px) {
     .about-section {
